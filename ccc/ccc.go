@@ -1,7 +1,7 @@
-package main
+package ccc
 
 import "fmt"
 
-func main() {
+func Name() {
 	fmt.Println("Hello ccc")
 }
